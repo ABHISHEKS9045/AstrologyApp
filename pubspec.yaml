@@ -1,0 +1,109 @@
+name: astrologyapp
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.5
+  youtube_player_flutter: ^8.1.2
+  workmanager: ^0.5.1
+  provider: ^6.0.5
+  modal_bottom_sheet: ^2.1.2
+  fluttertoast: ^8.2.1
+  shared_preferences: ^2.1.1
+  http: ^0.13.6
+  hexcolor: ^3.0.1
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  flutter_slidable: ^3.0.0
+  intl: ^0.18.1
+  in_app_review: ^2.0.6 # check where it is used
+  shimmer: ^3.0.0
+  dio: ^5.1.2
+  flutter_svg: ^2.0.5
+  flutter_otp_text_field: ^1.1.1
+  firebase_core: ^2.12.0
+  firebase_auth: ^4.6.0
+  firebase_messaging: ^14.6.0
+  flutter_local_notifications: ^14.0.0+2
+  firebase_database: ^10.2.0
+  firebase_crashlytics: ^3.3.0
+  sms_autofill: ^2.3.0
+  flutter_google_places: ^0.3.0
+  google_maps_flutter: ^2.2.6 # need to check where it is used
+  geolocator: ^9.0.2
+  google_sign_in: ^6.1.0 # need to check where it is used
+  get: ^4.6.5
+  flutter_rating_bar: ^4.0.1
+  image_picker: ^1.0.0
+  image_cropper: ^4.0.1
+  flutter_image_compress: ^2.0.3
+  path_provider: ^2.0.15
+  url_launcher: ^6.1.11
+  permission_handler: ^10.2.0
+  flutter_ringtone_player: ^3.2.0
+  google_place: ^0.4.7
+  flutter_spinkit: ^5.2.0
+  stop_watch_timer: ^1.1.0+1 # need to check where it is used
+  geocoding: ^2.1.0
+  printing: ^5.10.4
+  pdf: ^3.10.3
+  flutter_native_image: ^0.0.6+1
+  intl_phone_number_input: ^0.7.3+1 # not in use
+  pin_code_fields: ^8.0.1 # not in use
+  sizer: ^2.0.15
+  percent_indicator: ^4.2.3
+  cached_network_image: ^3.2.3
+  socket_io_client: ^2.0.2
+  dropdown_button2: ^2.1.2
+  razorpay_flutter: ^1.3.0
+  device_info_plus: ^9.0.0
+  share_plus: ^7.0.0
+  modal_progress_hud_nsn: ^0.4.0
+  flutter_tags_x: ^1.1.0
+  flutter_typeahead: ^4.3.8 # need to check where it is used
+  easy_image_viewer: ^1.2.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/
+    - assets/rashiimage/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 200
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 100

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440107329218",
+    "firebase_url": "https://connect-aastro-default-rtdb.firebaseio.com",
+    "project_id": "connect-aastro",
+    "storage_bucket": "connect-aastro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440107329218:android:3b56dc07534b5c88cc3d5b",
+        "android_client_info": {
+          "package_name": "com.mactosys.astrologyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440107329218-oqlj4u3cu09ne2uqqmq7df4mfo1j04m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OXTnh4yd8inPEYFu5zr2palqi4o8qvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440107329218-oqlj4u3cu09ne2uqqmq7df4mfo1j04m4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440107329218-k894vosicclvoblgbt514hgjufe5c84q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.astrologyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

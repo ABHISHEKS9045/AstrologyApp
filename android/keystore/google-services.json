@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "879946274509",
+    "firebase_url": "https://astrologyapp-d70a1-default-rtdb.firebaseio.com",
+    "project_id": "astrologyapp-d70a1",
+    "storage_bucket": "astrologyapp-d70a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879946274509:android:ce8da806fcd892a914fb84",
+        "android_client_info": {
+          "package_name": "com.mactosys.astrologyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879946274509-04pdml41uqv7598jibtag22j9tqgkk0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mactosys.astrologyapp",
+            "certificate_hash": "ece6178397117f926f422898aa2dafc7e1a9c01b"
+          }
+        },
+        {
+          "client_id": "879946274509-a80ilmto8oqvhb00qrb8b8g0dnh2o883.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mactosys.astrologyapp",
+            "certificate_hash": "ab647bc40393a38b5fcb1ed24730621b25ecda90"
+          }
+        },
+        {
+          "client_id": "879946274509-ip6v611s7911k3ars08le0hb339gcm12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mactosys.astrologyapp",
+            "certificate_hash": "3c7e3086a1059285b2370f8eb6285b3c9410e8e6"
+          }
+        },
+        {
+          "client_id": "879946274509-pjnnfn4frh3g6c4e4fguofugs5b3eejh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mactosys.astrologyapp",
+            "certificate_hash": "7cfa91b1c5276e6f0bad54233edda330cc4a21be"
+          }
+        },
+        {
+          "client_id": "879946274509-q3ngf6l9s23polvltur8vduem1q64lss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjl5eerbUVzq98s8Jxh3ENx4omeIpxOwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879946274509-q3ngf6l9s23polvltur8vduem1q64lss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879946274509-fp8bf17eev5defomh6sdvom0t5mcpsj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mactosys.astrologyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
